@@ -1,0 +1,6 @@
+1#Hamburger#8000#5
+2#Sandwich#8500#
+3#Maccaroni#15000#
+4#Pizza#25000#
+5#Fettucini#20000#
+6# Tao Kae Noi#20500#
